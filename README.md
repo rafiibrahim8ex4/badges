@@ -1,4 +1,5 @@
 ![test-workflow]
+![download-count]
 
 # sentiscope
 A simple sentiment analysis API made with Flask.
